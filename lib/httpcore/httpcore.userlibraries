@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="httpcore" systemlibrary="false">
+        <archive javadoc="jar:platform:/resource/BYONDRelay/lib/httpcore/httpcore-4.1.4-doc.zip!/" path="/BYONDRelay/lib/httpcore/httpcore-4.1.4.jar" source="/BYONDRelay/lib/httpcore/httpcore-4.1.4-src.zip"/>
+    </library>
+</eclipse-userlibraries>
